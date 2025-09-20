@@ -1,1 +1,1 @@
-I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛..I love to explore new technologies and leverage them to solve real-life problems. I also do my own research on Data Analysis. I'm currently into Web Development.
+I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛..I love to explore new technologies and leverage them to solve real-life problems. I also do my own research on Data Analysis. I'm currently into Web Development.
